@@ -35,8 +35,6 @@ Fullstack Developer
 
 <p align="left"> <a href="https://www.github.com/oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oytuncobaneth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### badges
-
-<b>useless stats</b>
+### useless stats
 
 <a href="http://www.github.com/oytuncoban"><img src="https://github-readme-stats.vercel.app/api?username=oytuncoban&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="oytuncoban's GitHub stats" /></a>
