@@ -4,14 +4,11 @@ Sup? ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Fullstack Developer
 -------------------
 
-I am a curious "dev-wannabe". I want to experience all the tools&techs available rn.
+* 🌍  i'm based in istanbul
+* ✉️  you can contact me at [cobans17@itu.edu.tr](mailto:cobans17@itu.edu.tr)
+* 🧠  currently mastering my system architecture skillz
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [cobans17@itu.edu.tr](mailto:cobans17@itu.edu.tr)
-* 🧠  I'm learning Ordinals 🤫
-
-### Skills
-
+### skills that i'm deceiving you that i have
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,12 +38,12 @@ I am a curious "dev-wannabe". I want to experience all the tools&techs available
 </p>
 
 
-### Socials
+### socials
 
 <p align="left"> <a href="https://www.github.com/oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@oytuncoban" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/oytuncobaneth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### badges
 
-<b>My GitHub Stats</b>
+<b>useless stats</b>
 
 <a href="http://www.github.com/oytuncoban"><img src="https://github-readme-stats.vercel.app/api?username=oytuncoban&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="oytuncoban's GitHub stats" /></a>
